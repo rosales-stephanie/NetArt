@@ -1,0 +1,16 @@
+body  {
+	background-image: url("https://i.gifer.com/origin/6b/6b0f19174a89fbe967cbdec6a285344a_w200.gif"), url("https://www.brickfanatics.com/wp-content/uploads/LEGO-Ice-castle-featured.jpg");
+	background-repeat:no-repeat;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+ 	background-color: #cccccc;
+}
+
+h1 {
+	font-family: "Lucida Handwriting", cursive;   
+	text-align: center;
+	color:white;
+}
+		
