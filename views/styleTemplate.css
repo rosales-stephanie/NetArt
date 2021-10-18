@@ -21,3 +21,12 @@ body{
 	color:white;
 }
 
+.rotate_rose {
+  width: 100px;
+  height: 100px;
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+  position: fixed;
+  bottom:0px;
+  right:0px;
+}

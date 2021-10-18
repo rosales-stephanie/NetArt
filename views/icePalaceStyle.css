@@ -14,3 +14,12 @@ h1 {
 	color:white;
 }
 		
+.rotate_rose {
+  width: 100px;
+  height: 100px;
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+  position: absolute;
+  bottom:0;
+  right:0;
+}
