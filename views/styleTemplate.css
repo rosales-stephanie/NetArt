@@ -30,3 +30,13 @@ body{
   bottom:0px;
   right:0px;
 }
+
+.rotate_rose_ccw {
+	width:100px;
+	height:100px;
+  -ms-transform: rotate(270deg);
+  transform: rotate(270deg);
+  position: fixed;
+  bottom:0px;
+  left:0px;
+}
