@@ -7,3 +7,11 @@
 - Out Experience with their artwork (screenshots, thoughts)
 - What it was before it closed down (pictures of the store inside)
 - What the store is now (that Hearing Care place)
+
+Order:
+______
+store
+website - link to mysterious music
+personal experience
+the book
+the artists
