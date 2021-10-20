@@ -11,6 +11,7 @@
 .grid-layout > div{
 	text-align: center;
 	/*vertical-align: center;*/
+	font-family: 'IM Fell English SC', serif;
 	margin: auto;
 	font-size: 30px;
 	padding:20px, 0;
